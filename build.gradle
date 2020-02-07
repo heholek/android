@@ -105,7 +105,7 @@ spotbugs {
 
 shot {
     appId = 'com.nextcloud.client'
-    instrumentationTestTask = 'connectedGenericDebugAndroidTest'
+    instrumentationTestTask = 'connectedGplayDebugAndroidTest'
 }
 
 android {
